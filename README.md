@@ -6,8 +6,8 @@
 
 Sens in game 1.95 whatever resolution you want, I used full hd
 
-Menu open f2 for Lj ahk
+Menu open f2 for Lj ahk. Del key for exit AHK
 
-Menu open f4 for trash talk, chat messege f1 key, active window cs2
+Menu open f4 for trash talk, chat messege f1 key, active window cs2 there is a language selection function for trash talk eng or rus 130+ eng phrases 70+ rus phrases
 
-The script has a function to save settings your settings will be saved in settings.ini the configuration file is created automatically in the location of the script, default chat opening window in game on y
+The script has a function to save settings your settings will be saved in settings.ini the configuration file is created automatically in the location of the script, default chat opening in game on y
