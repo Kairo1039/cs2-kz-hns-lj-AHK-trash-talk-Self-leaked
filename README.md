@@ -1,4 +1,4 @@
-run the script with ADMINISTRATOR RIGHTS
+run the script with ADMINISTRATOR RIGHTS AHK version 1.1 (deprecated)
 
 28-13-20-1 LJ 294.17 MBHOP 303.7 18 strafe (THIS IS A RAGE settings you will be banned with high probability by the server administrator)
 
