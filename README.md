@@ -20,4 +20,5 @@ RMB has the same function as space, but without strafe it allows you to make lon
 Menu open f4 for trash talk, chat messege f1 key, active window cs2 there is a language selection function for trash talk eng or rus 130+ eng phrases 70+ rus phrases, default chat opening in game on y
 
 Also works in cs go raw input on
+
 GUIDE for RUS https://youtu.be/hqcXiYzFKfQ
