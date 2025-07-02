@@ -6,7 +6,9 @@
 
 Sens in game 1.95 whatever resolution you want, I used full hd
 
-Menu open f2 for Lj ahk. Del key for exit AHK. The script has a function to save settings your settings will be saved in settings.ini the configuration file is created automatically in the location of the script, 
+Menu open f2 for Lj ahk. Del key for exit AHK. 
+The script has a function to save settings your settings will be saved in settings.ini the configuration file is created automatically in the location of the script 
+
 RMB has the same function as space, but without strafe it allows you to make long jumps without strafe, always pressing perfect +W
 
 Menu open f4 for trash talk, chat messege f1 key, active window cs2 there is a language selection function for trash talk eng or rus 130+ eng phrases 70+ rus phrases, default chat opening in game on y
