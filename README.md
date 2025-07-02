@@ -10,7 +10,8 @@ Menu open f2 for Lj ahk. Del key for exit AHK.
 
 The script has a function to save settings your settings will be saved in settings.ini the configuration file is created automatically in the location of the script.
 
-I advise typing prestrafe 276 mainly via +w then before the edge of the block hold down space and at the end ctrl
+I advise typing prestrafe 276 mainly via +w then before the edge of the block hold down space and at the end ctrl. 
+You can also do right prestrafe via w+d also good but has a problem of poor sync of first strafe
 
 RMB has the same function as space, but without strafe it allows you to make long jumps without strafe, always pressing perfect +W
 
