@@ -2,7 +2,7 @@ run the script with ADMINISTRATOR RIGHTS AHK version 1.1 (deprecated)
 
 IMPORTANT: in the game settings, the jump must be set to space and the jump binding must also be set to the "mwheeldown" "+jump" binding or up at your discretion
 
-28-13-20-1 LJ 294.17 MBHOP 305.01 18 strafe (THIS IS A RAGE settings you will be banned with high probability by the server administrator)
+28-13-20-1 LJ 294.20 MBHOP 305.01 18 strafe (THIS IS A RAGE settings you will be banned with high probability by the server administrator)
 
 25-5-28-2 FULL LEGIT 9 strafe LJ 280-281 max  you will not be banned by the administration
 
